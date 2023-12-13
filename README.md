@@ -1,6 +1,6 @@
-# typora purple theme
+# Typora-Purple-Theme
 
-> 一款简介,优美的Typora主题
+> 一款简洁,优美的Typora主题
 
 ## 主题预览
 
