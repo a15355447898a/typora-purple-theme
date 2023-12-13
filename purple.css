@@ -64,8 +64,8 @@
     --active-file-bg-color: var(--shadow-color);
     --item-hover-bg-color: var(--shadow-color);
     --active-file-border-color: var(var(--title-color));
-    --base-font: "Open Sans", "Clear Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    --title-font: "EB Garamond", "Source Sans Pro", serif;
+    --base-font: "霞鹜文楷 屏幕阅读版";
+    --title-font: "霞鹜文楷 屏幕阅读版";
     --monospace: Courier, Monospace !important;
 }
 
@@ -76,16 +76,20 @@
     html {
         font-size: 0.9rem;
     }
+
     table,
     pre {
         page-break-inside: avoid;
     }
+
     pre {
         word-wrap: break-word;
     }
+
     #write {
         max-width: 100%;
     }
+
     @page {
         size: A3;
         /* PDF output size */
@@ -191,22 +195,27 @@ h1 tt,
 h1 code {
     font-size: inherit;
 }
+
 h2 tt,
 h2 code {
     font-size: inherit;
 }
+
 h3 tt,
 h3 code {
     font-size: inherit;
 }
+
 h4 tt,
 h4 code {
     font-size: inherit;
 }
+
 h5 tt,
 h5 code {
     font-size: inherit;
 }
+
 h6 tt,
 h6 code {
     font-size: inherit;

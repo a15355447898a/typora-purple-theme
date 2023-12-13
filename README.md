@@ -1,25 +1,12 @@
-[English](./README-en.md)
+# typora purple theme
 
-## 主题介绍
-
-`purple.css` 和 `purple-classic.css` 是2 种紫色调：
+## 主题预览
 
 ![purple.css](./ScreenShots/0.png)
 
-![purple.css](./ScreenShots/1.png)
+## 主题安装步骤
 
-`purple-plain.css` 是 ~~黑长直~~ 简约黑色调
-
-![purple-plain.css](./ScreenShots/2.png)
-
-`purple-blue.css` 是 ~~女仆~~ 简约蓝色调
-
-![](./ScreenShots/3.png)
-
-`purple-green.css` 是 ~~大葱~~ 简约绿色调
-
-![](./ScreenShots/4.png)
-
-## 关于自定义
-
-可以很容易自定义喜欢的色调，只需要 copy 任一 `purpe-xxx.css`，在其中修改或添加配置即可
+1. 下载本项目中的`purple.css`文件
+2. 打开`Typora`,点击`偏好设置`->`打卡主题文件夹`,将弹出`Typora`的主题文件夹
+3. 将下载好的`purple.css`文件放到`Typora`的主题文件夹
+4. 关闭并重新打开`Typora`,从菜单栏中选择"主题"->"Purple"即可
